@@ -1,8 +1,4 @@
-Here’s a well-structured README for your project, **Smooth AI**, that includes a long description, emojis, and organized sections to enhance UX.
-
----
-
-# Smooth AI 🚀
+# Smooth AI (https://new-smoothai.vercel.app/) 🚀
 
 Smooth AI is a cutting-edge platform that empowers users to seamlessly create SaaS websites with integrated AI and 3D AI models! 🎨✨ With just a few clicks, users can build interactive, AI-powered landing pages, integrate chatbots and avatars, and enhance user journeys through lifelike 3D AI models that respond to voice commands and gestures in real-time.
 
